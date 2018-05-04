@@ -5,8 +5,8 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "ru.sersh_perm.trafficlight"
-        minSdkVersion 16
+        applicationId "ru.sersh_perm.com.sharpai.alertboard"
+        minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

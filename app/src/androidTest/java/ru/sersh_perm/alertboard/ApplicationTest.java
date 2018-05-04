@@ -1,4 +1,4 @@
-package ru.sersh_perm.trafficlight;
+package ru.sersh_perm.alertboard;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
